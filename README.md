@@ -1,5 +1,5 @@
 # Scripts
-Por que esse repositório existe? Bom, deste de que eu resolvi trocar o `Windows` pelo o `Ubuntu` não vejo motivos para voltar para o `Windows`. E como estou "surgando a onda" de criar *scripts* personalizados, resolvi armazená-los para quando eu precisar formatar ou algo do tipo (já aconteceu).
+Por que esse repositório existe? Bom, deste de que eu resolvi trocar o `Windows` pelo o `Ubuntu` não vejo motivos para voltar para o `Windows`. E como estou "seguindo a onda" de criar *scripts* personalizados, resolvi armazená-los para quando eu precisar formatar ou algo do tipo (já aconteceu).
 
 ## Lista
 

@@ -3,11 +3,12 @@
 used_swap=$(free | grep Swap | awk '{print $3}')
 available_ram=$(free | grep Mem | awk '{print $7}')
 
+sudo
 echo "Transferindo da swap para a ram..."
 
 if [ "$available_ram" -gt "$used_swap" ]; then
-    sudo swapoff -a
-    sudo swapon -a
+    swapoff -a
+    swapon -a
     echo "Transferência concluída."
 else
     echo "Sem espaço suficiente na memória ram!"
